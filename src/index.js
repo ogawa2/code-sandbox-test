@@ -1,6 +1,6 @@
 import "./styles.css";
 
-console.log(" 1234");
+console.log("コミット2テスト");
 
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
